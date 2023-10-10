@@ -59,7 +59,7 @@ body{
     width:400px; height:400px;
     position: relative;
     left: 90vh;
-    bottom: 60vh;
+    bottom: 30vh;
     border-radius: 100%;
     box-shadow: 5px 5px 21px 5px  rgb(255, 255, 255);
 }
