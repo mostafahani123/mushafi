@@ -11,8 +11,11 @@ body{
     overflow-x: hidden;
   
     /* background-color: rgba(178, 207, 207, 0.514); */
-    background-image: url(image/s1.png);
+
     border-bottom-right-radius: 10%;
+}
+.body_style_image_background{
+    background-image: url(image/s1.png);
 }
 .logo{
     position: relative;
